@@ -1,0 +1,78 @@
+@import url('https://fonts.googleapis.com/css?family=Lato&display=swap:100, 200, 300, 400, 500, 600, 700');
+.uppercase {
+    text-transform: uppercase;
+}
+
+/*-------------header*/
+
+header {
+    background-color: #030d2b;
+    height: 80px;
+
+}
+
+.nav-item {
+    padding: 10px;
+    transition: all 0.5s ease-in-out;
+    -moz-transition: all 0.5s ease-in-out;
+    -webkit-transition: all 0.5s ease-in-out;
+    -o-transition: all 0.5s ease-in-out;
+}
+
+.nav-item a {
+    font-family: 'Lato', sans-serif;
+    font-size: 1em;
+    color: #fac105;
+    background-color: #030d2b;
+    text-decoration: none;
+
+}
+
+.nav-item:hover {
+ opacity: 0.5;
+}
+
+.nav-item a i {
+    font-size: 48px;
+    color: white;
+    margin-top: 10px;
+}
+
+/*-------------footer*/
+
+footer {
+    font-family: 'Lato', sans-serif;
+    color: #fac105;
+    background-color: #030d2b;
+}
+
+.footer-section {
+    text-align: right;
+    font-weight: 300;
+
+}
+
+.social {
+    padding-top: 20px;
+}
+
+.social li a i {
+    width: 60px;
+    height: 60px;
+    padding: 24px 0;
+    font-size: 24px;
+    line-height: 14px;
+    border-radius: 50%;
+    color: #030d2b;
+    background: #fac105;
+    text-align: center;
+    transition: all 0.5s ease-in-out;
+    -moz-transition: all 0.5s ease-in-out;
+    -webkit-transition: all 0.5s ease-in-out;
+    -o-transition: all 0.5s ease-in-out;
+}
+
+.social li a i:hover {
+    color: #fac105;
+    background: #030d2b;
+}

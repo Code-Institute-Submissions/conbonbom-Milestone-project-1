@@ -36,6 +36,8 @@ In one section will be have a paragraph with information about the classes
 and in the other section we will have a timetable of classes followed by a button to sign in and book a class. 
 This will hopefully keep the information clear and easy to use and keep exisiting members coming back to book classes online.
 
+**wireframes:** Availabe here [Link](/assets/images/wireframes)
+
 
 ## Technology used
 * HTML5- Used to create the frameworks of the pages

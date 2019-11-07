@@ -71,4 +71,9 @@ The website was tested on:
 In the future i would like to fix how the website works for mobile in particular the timetable section. 
 I would also like to take a look at th the pop up modals. I feel they would benefit from some extra styling
 
+## Deployment
+The web page was deployed using git hub pages. In the settings section of the repositry on git hub i went o git hub pages. And deployed from there
+
 The website is available to view here: [link](https://conbonbom.github.io/Milestone-project-1/)
+
+

@@ -52,3 +52,20 @@ This will hopefully keep the information clear and easy to use and keep exisitin
 * Unsplash- All images taken from [link](https://unsplash.com/)
 * Code Institute- I went back to some code intstitute tutorials for help
 * W3schools- Was used to help across all pages [link](https://www.w3schools.com)
+
+
+## Testing
+
+I have tried my best to keep the website as responsive as possible however i feel there is many improvements to be made here.
+The website was tested on:
+* google chrome
+* safari
+* internet explorer
+* iphone 6
+* iphone X
+* samsung galaxy 10
+
+## Future
+
+In the future i would like to fix how the website works for mobile in particular the timetable section. 
+I would also like to take a look at th the pop up modals. I feel they would benefit from some extra styling

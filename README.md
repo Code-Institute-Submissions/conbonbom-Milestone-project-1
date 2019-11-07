@@ -54,9 +54,10 @@ This will hopefully keep the information clear and easy to use and keep exisitin
 * W3schools- Was used to help across all pages [link](https://www.w3schools.com)
 
 
-## Testing
+## Testing/bugs
 
 I have tried my best to keep the website as responsive as possible however i feel there is many improvements to be made here.
+There is also an issue with one of the images in the carousel. I think the resolution makes it not very suitable for use here.
 The website was tested on:
 * google chrome
 * safari
